@@ -34,8 +34,12 @@ The system classifies dental images into the following categories:
 - **Model Development**  
   - Baseline: **ResNet50** pretrained on ImageNet.  
   - Fine-tuning with custom dense layers.  
-  - Evaluate with accuracy, loss, and confusion matrix.  
-
+  - Evaluate with accuracy, loss, and confusion matrix.
+    
+- **Deployment**  
+  - Wrapped into a **Flask web app**.  
+  - Users can upload dental X-ray or image scans.  
+  - Model performs inference and returns the **predicted disease category** in real time.      
 ---
 
 ## 🛠️ Technology Stack  
