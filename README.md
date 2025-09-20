@@ -56,6 +56,14 @@ The system classifies dental images into the following categories:
 </p>  
 
 ---
+📜 License
 
-## 📂 Repository Structure  
+This project is licensed under the MIT License.
+See the LICENSE
+ file for details.
 
+👨‍💻 Author
+
+Paula Hanna Naguib
+
+“Knowledge is power. Applying AI to healthcare transforms information into life-changing insights.”
