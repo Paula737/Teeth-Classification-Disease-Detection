@@ -56,12 +56,6 @@ The system classifies dental images into the following categories:
 </p>  
 
 ---
-📜 License
-
-This project is licensed under the MIT License.
-See the LICENSE
- file for details.
-
 ## 👨‍💻 Author  
 
 ✨ **𝒫𝒶𝓊𝓁𝒶 𝐻𝒶𝓃𝓃𝒶** ✨  
