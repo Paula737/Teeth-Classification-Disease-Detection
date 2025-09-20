@@ -62,8 +62,9 @@ This project is licensed under the MIT License.
 See the LICENSE
  file for details.
 
-👨‍💻 Author
+## 👨‍💻 Author  
 
-Paula Hanna Naguib
+✨ **𝒫𝒶𝓊𝓁𝒶 𝐻𝒶𝓃𝓃𝒶** ✨  
 
-“Knowledge is power. Applying AI to healthcare transforms information into life-changing insights.”
+📌 *“𝒦𝓃𝓸𝓌𝓁𝑒𝒹𝑔𝑒 𝒾𝓈 𝓅𝑜𝓌𝑒𝓇. 𝒜𝓅𝓅𝓁𝓎𝒾𝓃𝑔 𝒜𝐼 𝓉𝑜 𝒽𝑒𝒶𝓁𝓉𝒽𝒸𝒶𝓇𝑒 𝓉𝓇𝒶𝓃𝓈𝒻𝑜𝓇𝓂𝓈 𝒾𝓃𝒻𝑜𝓇𝓂𝒶𝓉𝒾𝑜𝓃 𝒾𝓃𝓉𝑜 𝓁𝒾𝒻𝑒-𝒸𝒽𝒶𝓃𝑔𝒾𝓃𝑔 𝒾𝓃𝓈𝒾𝑔𝒽𝓉𝓈.”*  
+
